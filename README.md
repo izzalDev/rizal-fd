@@ -1,4 +1,4 @@
-### Hi there, I'm Rizal
+# Hi there, I'm Rizal
 
 ## I'm a Collage Student and Developer!!
 
